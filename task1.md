@@ -13,7 +13,7 @@ A deep copy creates a new object and recursively copies all nested objects insid
 -Both the top-level object and all nested objects are duplicated.
 -No shared references between the copy and the original.
 -Changes in one do not affect the other.
-# Task_1.1
+# Task_1.2
 # Multiple inheritance
 ## 1-If a child class and a parent class have a method with the same name in Python, the child class’s method will override (replace) the parent’s method when called from an instance of the child.
 ## 2-If two parents share the same parent (multiple inheritance with a common ancestor), Python will use the Method Resolution Order (MRO) to decide which method to run.
